@@ -1,0 +1,7 @@
+.footer__column-list-item {
+  margin-top: 10px;
+}
+
+.footer__column-list-item:first-child {
+  margin-top: 0;
+}
